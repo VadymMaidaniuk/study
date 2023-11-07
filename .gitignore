@@ -11,8 +11,8 @@ target/
 *.iws
 *.iml
 *.ipr
-.idea/*
 *.log
+
 target/*
 
 ### Eclipse ###
@@ -38,4 +38,4 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Storere
